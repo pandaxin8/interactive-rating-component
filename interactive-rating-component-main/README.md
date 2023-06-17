@@ -2,9 +2,9 @@
 
 This project is a simple web application that allows users to provide a rating from 1 to 5 and then thanks them for their feedback. The project is built using HTML, CSS, and JavaScript.
 
-![Screenshot of the rating component](images/screenshot-1.png)
+![Screenshot of the rating component](interactive-rating-component-main/images/screenshot-1.png)
 
-![Screenshot of the thank you component](images/screenshot-2.png)
+![Screenshot of the thank you component](interactive-rating-component-main/images/screenshot-2.png)
 
 ## Features
 
